@@ -1,0 +1,6 @@
+{
+    "require": {
+        "datatables/datatables": "^1.10",
+        "fortawesome/font-awesome": "^5.15"
+    }
+}
