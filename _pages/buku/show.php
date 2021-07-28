@@ -32,8 +32,7 @@ $buku = getById($id);
             <dd> <?php echo $buku['tersedia'] ?> </dd>
             <dt>Dipinjam</dt>
             <dd> <?php echo $buku['dipinjam'] ?> </dd>
-            <dt>Cover</dt>
-            <dd> <?php echo $buku['cover'] ?> </dd>
+            
 
         </dl>
     </div>

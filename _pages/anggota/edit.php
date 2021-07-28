@@ -4,12 +4,12 @@ $id = $_GET['id'];
 $anggota = getById($id);
 ?>
 
-<h1>Halaman Tambah Data</h1>
+<h1>Halaman Edit Data</h1>
 
 <div class="card card-default">
     <div class="card-header">
         <div class="card-title">
-            Tambah Data Anggota
+            Edit Data Anggota
         </div>
     </div>
     <div class="card-body">
